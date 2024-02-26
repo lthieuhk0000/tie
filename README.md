@@ -1,0 +1,2 @@
+# tie
+responsitory of project
